@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-fabric script to distribute an archive to web servers
+Script to distribute an archive to web servers
 ----NEEDS TO REVISIT SCRIPT
 '''
 
