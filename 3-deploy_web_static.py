@@ -8,8 +8,6 @@ from fabric.api import env, local, put, run, runs_once
 
 
 env.hosts = ['52.91.165.160', '35.153.98.133']
-env.user = 'ubuntu'
-env.key_filename = '~/.ssh/'
 
 
 @runs_once
